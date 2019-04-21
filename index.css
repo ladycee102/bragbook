@@ -2,7 +2,7 @@
 
 body {
 	background-image: url("initials.png");
-	background-color: white;
+	background-color: LightGray;
 	margin: 30px;
 }
 
@@ -41,4 +41,5 @@ p {
 }
 .container{
 	border-style: solid;
+	background-color: white;
 }
